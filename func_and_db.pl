@@ -65,9 +65,9 @@ voo(frankfurt,estocolmo,em15,20:20,(mesmo,23:30),1,emirates,[ter,qui,sab]).
 voo(frankfurt,estocolmo,km15,6:00,(mesmo,8:05),0,klm,[seg,sex,dom]).
 voo(frankfurt,estocolmo,tp15,15:40,(mesmo,19:50),2,tap,[qua,sab]).
 
-voo(frankfurt,roma,em16,19:40,(mesmo,22:15),0, tam, [ter,sex]).
-voo(frankfurt,roma,km16,14:10,(mesmo,18:35),0,tam,[qua,sab]).
-voo(frankfurt,roma,tp16,7:30,(mesmo,9:25),0,tam,[seg,qui,dom]).
+voo(frankfurt,roma,em16,19:40,(mesmo,22:15),0,emirates, [ter,sex]).
+voo(frankfurt,roma,km16,14:10,(mesmo,18:35),0,klm,[qua,sab]).
+voo(frankfurt,roma,tp16,7:30,(mesmo,9:25),0,tap,[seg,qui,dom]).
 
 %FUNC 1 
 voo_direto(Origem, Destino, Companhia, DiaSemana, Horario):-
