@@ -3,7 +3,7 @@
 
 ### FUNÇÕES:
 
-### 1) Verifica se é possível ir de uma cidade a outra, através de um vôo direto (sem escalas), em determinado dia, hora e companhia.
+### 1) Verifica se é possível ir de uma cidade a outra, através de um voo direto (sem escalas), em determinado dia, hora e companhia.
 EXEMPLO:
 
 ?- voo_direto(frankfurt, roma, klm, qua, Horário).
