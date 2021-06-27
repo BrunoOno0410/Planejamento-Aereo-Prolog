@@ -1,6 +1,5 @@
 # Planejamento-Aereo-Prolog
-
-###### Projeto sobre disponibilidade de vôos simulados.
+###### Projeto sobre disponibilidade de voos simulados.
 
 ### FUNÇÕES:
 
@@ -30,7 +29,7 @@ HorarioSaida = 14:10**.
 
 false
 
-### 3) Função retorna lista de vôos entre duas cidades **X** e **Y**
+### 3) Função retorna lista de voos entre duas cidades **X** e **Y**
 EXEMPLO:
 
 ?- roteiro(frankfurt, roma, ListaRota).
