@@ -38,4 +38,4 @@ ListaRota = [[[em16]], [[km16]], [[tp16]]]
 
 ### Desenvolvido no primeiro semestre de 2021, na matéria de Paradigmas da Programação, na linguagem PROLOG.
 
-#### Feito por: Bruno.
+#### Feito por: Bruno e Rafael.
